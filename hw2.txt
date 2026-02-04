@@ -1,0 +1,15 @@
+1b) write out the document outline for structure.html
+    <h1>Comp 484</h1>
+      <h2>Structuring Pages</h2>
+        <h3> Conveying meaning through structure </h3>
+        <h3>Sectioning elements </h3>
+        <h3>Document outlines </h3>
+          <h4>W3C Warning</h4>
+        <h3>WAI-ARIA Roles</h3>
+2c) Explain semantic tags' useage
+    the header on line 9 is used to contain the name of the 'organization'(comp 848), as well as the page title, "Structuring Pages".
+    the nav on line 12 contains the navigation links
+    the main role on line 23 holds the purpose of the content, holding an article that has an header with an h3 tag to begin, followed by 3 sections that each also have headers with h3 tags, with the second section additionall holding an aside tag.
+    After the article tag and main tag end here, there is a footer tag holding the csun address and website.
+
+
